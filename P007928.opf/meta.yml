@@ -1,15 +1,16 @@
-id: opecha:P007928
+id: P007928
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG22907
   title: སློབ་གསོ་དོ་དམ་གྱི་སྒྱུ་རྩལ།
-  volume:
+  author: ''
+  volumes:
     c08afd4cf0e9448aa7e988bba1c85a63:
       image_group_id: I1KG22962
       title: Volume 1 of slob gso do dam gyi sgyu rtsal/
       volume_number: 1
       total_pages: 250
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སློབ་གསོ་དོ་དམ་གྱི་སྒྱུ་རྩལ།
   author: ''
